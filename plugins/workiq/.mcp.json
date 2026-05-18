@@ -10,6 +10,12 @@
       "tools": [
         "*"
       ]
-    }
-  }
+    }    ,
+		"Dataverse-mcp-server": {
+			"url": "https://org8096ee7a.crm5.dynamics.com/api/mcp",
+			"type": "http"
+		}
+	},
+  "mcpInputs": []
 }
+
