@@ -14,7 +14,13 @@
 		"Dataverse-mcp-server": {
 			"url": "https://org8096ee7a.crm5.dynamics.com/api/mcp",
 			"type": "http"
+		},
+
+		"exomcp": {
+			"url": "https://exomcp-app.wonderfulmeadow-534718c4.eastasia.azurecontainerapps.io",
+			"type": "http"
 		}
+	
 	},
   "mcpInputs": []
 }
